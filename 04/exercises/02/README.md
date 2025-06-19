@@ -1,0 +1,1 @@
+No, it does not. In C89 it depends on the implementation, but in C99 it will always be equivalent.

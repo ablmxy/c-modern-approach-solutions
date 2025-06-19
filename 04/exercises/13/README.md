@@ -1,0 +1,1 @@
+`++i` is the same as `i = i +1`. The reason is because the prefix operator saves the value immediately into the variable, which is what `i = i + 1` does.

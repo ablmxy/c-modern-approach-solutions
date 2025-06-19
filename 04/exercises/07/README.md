@@ -1,0 +1,1 @@
+Because in the first approach the following operations are using the total after 1 was subtracted from it. The second approach uses the total without subtracting 1 from it until the end.
