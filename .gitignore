@@ -2,3 +2,5 @@
 /cmake-build-debug/
 /main.c
 /.idea/
+/programs/
+*.exe
